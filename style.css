@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    height: 100px;
+    width: 80px;
+}
+
+h1 {
+    color:rgb(254, 167, 182);
+    padding: 18px 0;
+    background-color: azure;
+    
+}
